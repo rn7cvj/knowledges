@@ -1,3 +1,3 @@
 # Список тем
 
-- [SSH](ssh/indnex.md)
+- [SSH](ssh/index.md)
